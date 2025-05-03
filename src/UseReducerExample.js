@@ -1,4 +1,4 @@
-import { useEffect, useReducer } from "react";
+import { /* useEffect */ useReducer } from "react";
 import { initialState, reducer } from "./reducer";
 
 const UseReducerExample = () => {
